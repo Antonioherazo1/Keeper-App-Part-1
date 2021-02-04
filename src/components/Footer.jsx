@@ -6,7 +6,7 @@ const year = date.getFullYear();
 
 function Footer() {
   return(
-<footer> <p>Copyrith {year}</p></footer>
+<footer> <p>Copyright ⓒ  {year}</p></footer>
   )
 }
 
